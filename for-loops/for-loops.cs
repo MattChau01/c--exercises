@@ -24,15 +24,16 @@ namespace Giraffe
             //    i++;
             //}
 
-            // Simple `for` loop
+            Console.WriteLine("Using a `for` loop to increment the value of `i`");
             for (int i = 1; i <= 5; i++)
             {
                 Console.WriteLine(i);
             }
 
+
             Console.WriteLine("\n");
 
-            // Using a `for` loop to iterate through an array of elements.
+            Console.WriteLine("Using a `for` loop to iterate through an array of elements");
 
             int[] luckyNumbers = { 4, 8, 15, 23, 42 };
 
