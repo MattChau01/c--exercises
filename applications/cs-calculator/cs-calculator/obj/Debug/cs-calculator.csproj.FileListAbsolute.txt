@@ -1,0 +1,8 @@
+C:\Users\matth\OneDrive\Desktop\C#\cs-calculator\cs-calculator\bin\Debug\cs-calculator.exe.config
+C:\Users\matth\OneDrive\Desktop\C#\cs-calculator\cs-calculator\bin\Debug\cs-calculator.exe
+C:\Users\matth\OneDrive\Desktop\C#\cs-calculator\cs-calculator\bin\Debug\cs-calculator.pdb
+C:\Users\matth\OneDrive\Desktop\C#\cs-calculator\cs-calculator\obj\Debug\cs-calculator.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\C#\cs-calculator\cs-calculator\obj\Debug\cs-calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\OneDrive\Desktop\C#\cs-calculator\cs-calculator\obj\Debug\cs-calculator.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\C#\cs-calculator\cs-calculator\obj\Debug\cs-calculator.exe
+C:\Users\matth\OneDrive\Desktop\C#\cs-calculator\cs-calculator\obj\Debug\cs-calculator.pdb
